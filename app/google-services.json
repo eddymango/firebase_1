@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "992045575072",
+    "firebase_url": "https://eddymangotest1-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "eddymangotest1",
+    "storage_bucket": "eddymangotest1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:992045575072:android:d2ee5aeca72760423f52c5",
+        "android_client_info": {
+          "package_name": "net.flow9.thisisKotlin.firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "992045575072-d5cls8uubhlo5jes9tdmnsmbpuule5g0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCe8pXglo6PfN6592mUvofk9In3rHiz93c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "992045575072-d5cls8uubhlo5jes9tdmnsmbpuule5g0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
