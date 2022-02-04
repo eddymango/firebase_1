@@ -28,7 +28,7 @@ class MainActivity : AppCompatActivity() {
 
                 for ( item in snapshot.children){
                     //item의 value를 꺼내서 User 클래스로 캐스팅
-                    // value가 없을 수도 있기 때문에 let 스코프 함수로 처리 
+                    // value가 없을 수도 있기 때문에 let 스코프 함수로 처리
 
                     item.getValue(User::class.java)?.let { user ->
                         binding.textList.append("${user.name} : ${user.password} \n")
